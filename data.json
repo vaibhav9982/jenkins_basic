@@ -1,4 +1,4 @@
-[
+
   {
     "id": 1,
     "name": "Rahul Sharma",
@@ -6,6 +6,6 @@
     "phone": "9876543210",
     "email": "rahul@example.com",
     "password": "rahul123"
-  },
+  }
 
-]
+  
