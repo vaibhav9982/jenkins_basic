@@ -1,9 +1,9 @@
 
-  {
+ {
     "id": 1,
     "name": "Rahul Sharma",
     "branch": "CSE",
-    "phone": "9876543210",
+    "phone": "98765432",
     "email": "rahul@example.com",
     "password": "rahul123"
   }
