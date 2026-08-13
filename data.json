@@ -1,11 +1,26 @@
-
- {
+[
+  {
     "id": 1,
-    "name": "Rahul Sharma",
+    "name": "Vaibhav",
     "branch": "CSE",
-    "phone": "98765432",
-    "email": "rahul@example.com",
-    "password": "rahul123"
+    "phone": "9876543210",
+    "email": "vaibhav@gmail.com",
+    "password": "123456"
+  },
+  {
+    "id": 2,
+    "name": "vaibhav",
+    "branch": "IT",
+    "phone": "7878787878",
+    "email": "demo@gmail.com",
+    "password": "132465789"
+  },
+  {
+    "id": 3,
+    "name": "mehul",
+    "branch": "CSE",
+    "phone": "7878787878",
+    "email": "demo2@gmail.com",
+    "password": "1324564897"
   }
-
-  
+]
