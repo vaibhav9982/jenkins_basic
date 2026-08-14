@@ -31,6 +31,14 @@
     "phone": "64648979",
     "email": "de@gmail.com",
     "password": "648531356"
+  },
+  {
+    "id": 5,
+    "name": "bot",
+    "branch": "IT",
+    "phone": "4545455454",
+    "email": "de@gma.com",
+    "password": "esoghesgesag"
   }
   
 ]
