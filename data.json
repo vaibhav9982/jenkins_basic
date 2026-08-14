@@ -22,6 +22,15 @@
     "phone": "7878787878",
     "email": "demo2@gmail.com",
     "password": "1324564897"
+  },
+  
+  {
+    "id": 4,
+    "name": "sir",
+    "branch": "IT",
+    "phone": "64648979",
+    "email": "de@gmail.com",
+    "password": "648531356"
   }
   
 ]
